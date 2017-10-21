@@ -1,6 +1,20 @@
 # agcbStarterKit
 my helloWorld with webPack and Babel....
 
+
+1. git clone https://github.com/agcb/agcbStarterKit
+2. cd agcbStarterKit
+3. npm install
+4. npm run webpack
+5. open the index.html in a web browser.
+that's it. you are now live...
+you can update your app.js and webpack will re-bundle
+if you look at the bottom of the bundle.js you can see that all of the JS code that you write in your app.js gets transpiled to older versions of JS.
+
+You don't need to read any further down than this to get working... or you can to see how I got to this part of my progress.
+
+
+* * * 
 I learned this from Chris Hawkes Youtube [vid](https://www.youtube.com/watch?v=X5wTsHRsbIA) on this subject. 
 
 I saw his video as 7 steps.
