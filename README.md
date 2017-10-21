@@ -8,13 +8,14 @@ I saw his video as 7 steps.
 Before step 1 you have make a folder and be navigated inside it from a terminal.
 
 1-- npm init
-2--
-	npm install --save babel-loader babel-preset-env babel-core webpack
-	they will also be added to the package.json file that got made on step1
 
-	A real piece of power there is that if you move the project to another computer,
-	the package.json lets you npm install and get all of the dependencies with the 
-  proper versions.
+2--
+npm install --save babel-loader babel-preset-env babel-core webpack
+they will also be added to the package.json file that got made on step1
+
+A real piece of power there is that if you move the project to another computer,
+the package.json lets you npm install and get all of the dependencies with the 
+proper versions.
 
 3-- make a webpack.config.js file
   We need an entry point.
